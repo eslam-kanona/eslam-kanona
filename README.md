@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eslam-kanona
-- 👀 I’m interested in EV Technologies & AUTOSAR | Electrical Powertrain @ BRT | Automotive Control Systems & MBD | Industrial Robotics & Automation
+- 👀 I’m interested in EV Technologies & AUTOSAR | Electrical Powertrain | Automotive Control Systems & MBD | Industrial Robotics & Automation
 - 🌱 I’m currently learning Model Based Design
 - 💞️ I’m looking to collaborate on a robotics project.
 - 📫 Reach me via Whatsapp +20 1065016689
